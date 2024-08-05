@@ -1,3 +1,2 @@
-Lib\
-share\
-Include\
+share/**
+Lib/**

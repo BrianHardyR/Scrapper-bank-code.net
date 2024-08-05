@@ -1,0 +1,1 @@
+This notebook scraps bank-code.net for banks names and swiftcodes and stores them in bank_details.csv
